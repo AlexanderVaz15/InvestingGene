@@ -1,4 +1,7 @@
 # InvestingGene
 #Automated investing advisor that utilizes well known mathematical formulas to customize your portfolio.
 
-print("hello wrold")
+import numpy as np
+import yfinance as yf
+import plotly as pl
+import matplotlib as ml
